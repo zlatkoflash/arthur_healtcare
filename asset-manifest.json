@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b732024.css",
+    "main.js": "/static/js/main.ffb450af.js",
+    "static/js/787.d95efcd8.chunk.js": "/static/js/787.d95efcd8.chunk.js",
+    "static/media/example_feed_main_photo.jpg": "/static/media/example_feed_main_photo.79ef50e12b8ac6f6089d.jpg",
+    "static/media/profile-photo-sara.jpg": "/static/media/profile-photo-sara.73e4d75738f58c24af57.jpg",
+    "static/media/logo.svg": "/static/media/logo.328f9af72f2c73ef168467f1582349b1.svg",
+    "static/media/icon-check-star-13x13.svg": "/static/media/icon-check-star-13x13.def540e75b6cf5d3a2286ff474261f94.svg",
+    "index.html": "/index.html",
+    "static/media/circle_white_35x35.svg": "/static/media/circle_white_35x35.cb080982da08a599ed10.svg",
+    "static/media/circle-white-12x12.svg": "/static/media/circle-white-12x12.0ff6bbf6bd88953fb14d.svg",
+    "main.6b732024.css.map": "/static/css/main.6b732024.css.map",
+    "main.ffb450af.js.map": "/static/js/main.ffb450af.js.map",
+    "787.d95efcd8.chunk.js.map": "/static/js/787.d95efcd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b732024.css",
+    "static/js/main.ffb450af.js"
+  ]
+}
